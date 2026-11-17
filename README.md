@@ -1,2 +1,2 @@
 # agent-test
-dsh-superagent test reopsitory
+dsh-superagent test repository
